@@ -83,7 +83,7 @@ call s:HL('TabLine',                        s:line3,    s:gray1,    'none')
 call s:HL('TabLineFill',                    s:line3,    s:gray1,    'none')
 call s:HL('TabLineSel',                     s:line1,    s:line2,    'none')
 call s:HL('Title',                          s:gray4,    '',         'italic')
-call s:HL('Visual',                         s:gray5,    s:gray3,    '')
+call s:HL('Visual',                         '',    s:gray3,    '')
 call s:HL('WarningMsg',                     s:red,      '',         '')
 call s:HL('WildMenu',                       s:gray2,    s:blue,     '')
 
